@@ -670,19 +670,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hidayat\\.nuget\\packages\\": {}
+    "C:\\Users\\ibn usuf\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hidayat\\Desktop\\.net\\first.net\\first.net\\first.net.csproj",
+      "projectUniqueName": "C:\\Users\\ibn usuf\\Desktop\\asp.net\\flight customers zarnigah\\first.net\\first.net.csproj",
       "projectName": "first.net",
-      "projectPath": "C:\\Users\\hidayat\\Desktop\\.net\\first.net\\first.net\\first.net.csproj",
-      "packagesPath": "C:\\Users\\hidayat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hidayat\\Desktop\\.net\\first.net\\first.net\\obj\\",
+      "projectPath": "C:\\Users\\ibn usuf\\Desktop\\asp.net\\flight customers zarnigah\\first.net\\first.net.csproj",
+      "packagesPath": "C:\\Users\\ibn usuf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ibn usuf\\Desktop\\asp.net\\flight customers zarnigah\\first.net\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hidayat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ibn usuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
